@@ -1,0 +1,12 @@
+npm-debug.log
+.idea/workspace.xml
+.idea
+.idea/
+.sass-cache/
+node_modules
+out
+gen
+.DS_Store
+Thumbs.db
+yaf/application/.DS_Store
+/dist
