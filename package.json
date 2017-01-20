@@ -1,7 +1,7 @@
 {
-  "name": "layout",
+  "name": "umeng-layout",
   "version": "1.0.0",
-  "description": "layout",
+  "description": "umeng-layout",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --devtool eval --inline --hot",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:soguagirl/umeng-layout.git"
   },
-  "author": "",
+  "author": "shengyong",
   "license": "ISC",
   "dependencies": {
     "react": "^15.4.2",
